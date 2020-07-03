@@ -17,7 +17,7 @@ This software can battle for you if you can emulate the game on windows (this is
 - Any Android Emulator (BlueStacks recommended)
 - Make sure emulator is at lowest resolution possible and positioned at top left corner of your screen
 
-Clone the repository. And run the game in emulator then position it top left corner of screen, run [main.py](Clash-Royale-Artificial-Intelligence/main.py /). Postion the windows so that emulator is clearly visible.
+Clone the repository. And run the game in emulator then position it top left corner of screen, run [main.py](/main.py). Postion the windows so that emulator is clearly visible.
 Start the battle and select the pygame window then press 'S' to start the AI.
 
 
