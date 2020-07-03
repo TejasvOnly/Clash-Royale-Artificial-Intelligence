@@ -23,6 +23,6 @@ Start the battle and select the pygame window then press 'S' to start the AI.
 
 ### How to use
 
-After Pressing 'S' key to start pyautogui will take control of mouse input and fight your opponent. To stop the program you can push your mouse to extreme corner of your screen whenever you can.
+After Pressing 'S' key pyautogui will take control of mouse input and fight your opponent. To stop the program you can push your mouse to extreme corner of your screen whenever you can.
 
 Or you can sit back and watch AI lose (yes it's pretty bad).
